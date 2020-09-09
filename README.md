@@ -21,10 +21,10 @@ Here are some ideas to get you started:
   * Python
   
 ## Entrance tests
+  
+* Avito (June 2020)
+  * [Github API 🔗](https://github.com/kaineer/trial-avito-githubapi)
 
 * CSSSR (May-june 2019)
   * [Node 🔗](https://github.com/kaineer/trial-csssr-node)
   * [React 🔗](https://github.com/kaineer/trial-csssr-react)
-  
-* Avito (June 2020)
-  * [Github API 🔗](https://github.com/kaineer/trial-avito-githubapi)
