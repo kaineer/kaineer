@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kaineer@gmail.com
 -->
 
-## History
+## My story so far
   
 * [HTML Academy 🔗](https://htmlacademy.ru/) (2016, Software engineer)
   * Javascript
