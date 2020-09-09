@@ -1,16 +1,30 @@
-### Hi there 👋
-
 <!--
 **kaineer/kaineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: kaineer@gmail.com
 -->
+
+## History
+  
+* [HTML Academy 🔗](https://htmlacademy.ru/) (2016, Software engineer)
+  * Javascript
+  * Webpack
+  * Handlebars
+* [Naumen 🔗](https://www.naumen.ru/) (2008-2016, Software engineer)
+  * Ruby on rails
+  * jQuery
+  * Backbone.js
+* [Targem 🔗](https://targem.ru/) (2005-2008, AI Coder)
+  * C++
+  * Python
+  
+## Entrance tests
+
+* CSSSR (May-june 2019)
+  * [Node 🔗](https://github.com/kaineer/trial-csssr-node)
+  * [React 🔗](https://github.com/kaineer/trial-csssr-react)
+  
+* Avito (June 2020)
+  * [Github API 🔗](https://github.com/kaineer/trial-avito-githubapi)
