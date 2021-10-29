@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 ## Social links
 
-* 🐦 [Twitter](https://twitter.com/kaineer)
+* 🐦 [Twitter 🔗](https://twitter.com/kaineer)
