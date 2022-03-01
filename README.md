@@ -28,7 +28,3 @@ Here are some ideas to get you started:
 * CSSSR (May-june 2019)
   * [Node 🔗](https://github.com/kaineer/trial-csssr-node)
   * [React 🔗](https://github.com/kaineer/trial-csssr-react)
-
-## Social links
-
-* 🐦 [Twitter 🔗](https://twitter.com/kaineer)
