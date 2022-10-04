@@ -9,10 +9,9 @@ Here are some ideas to get you started:
 ## My story so far
   
 * [HTML Academy 🔗](https://htmlacademy.ru/) (2016, Software engineer)
-  * Javascript
+  * Javascript (browser, node)
   * Typescript
   * Webpack
-  * Handlebars
   * Docker
 * [Naumen 🔗](https://www.naumen.ru/) (2008-2016, Software engineer)
   * Ruby on rails
