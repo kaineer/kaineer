@@ -7,8 +7,13 @@ Here are some ideas to get you started:
 -->
 
 ## My story so far
-  
-* [HTML Academy 🔗](https://htmlacademy.ru/) (2016, Software engineer)
+
+* [IT-College 🔗](https://it-college.ru/) (2024, Software engineer)
+  * Javascript (browser, node)
+  * Typescript
+  * Webpack
+  * Docker
+* [HTML Academy 🔗](https://htmlacademy.ru/) (2016-2024, Software engineer)
   * Javascript (browser, node)
   * Typescript
   * Webpack
@@ -20,9 +25,9 @@ Here are some ideas to get you started:
 * [Targem 🔗](https://targem.ru/) (2005-2008, AI Coder)
   * C++
   * Python
-  
+
 ## Entrance tests
-  
+
 * Avito (June 2020)
   * [Github API 🔗](https://github.com/kaineer/trial-avito-githubapi)
 
