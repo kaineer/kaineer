@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 
 * [IT-College 🔗](https://it-college.ru/) (2024, Software engineer)
   * Javascript (browser, node)
+  * React (+redux toolkit)
   * Typescript
   * Webpack
   * Docker
