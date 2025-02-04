@@ -12,7 +12,6 @@ Here are some ideas to get you started:
   * Javascript (browser, node)
   * React (+redux toolkit)
   * Typescript
-  * Webpack
   * Docker
 * [HTML Academy 🔗](https://htmlacademy.ru/) (2016-2024, Software engineer)
   * Javascript (browser, node)
